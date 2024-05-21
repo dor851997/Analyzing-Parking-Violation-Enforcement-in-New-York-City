@@ -31,14 +31,21 @@ The dataset was sourced from the [Open Data NYC](https://opendata.cityofnewyork.
 
 Here are some screenshots showcasing the Power BI visualizations created during the project:
 
-![Dashboard Overview](images/dashboard_overview.png)
-*Figure 1: Overview of parking violations by type and time.*
 
-![Violation Heatmap](images/violation_heatmap.png)
-*Figure 2: Heatmap showing the distribution of parking violations across NYC.*
+![Capture1](https://github.com/dor851997/Analyzing-Parking-Violation-Enforcement-in-New-York-City/assets/67059795/9c63b4bf-4320-483f-a4df-dfe6e608071d)
+*Figure 1: Analysis of the types of parking violations.*
 
-![Monthly Trends](images/monthly_trends.png)
-*Figure 3: Monthly trends in parking violations.*
+![Capture2](https://github.com/dor851997/Analyzing-Parking-Violation-Enforcement-in-New-York-City/assets/67059795/f7f13f15-2d78-4935-a197-7c7f2dcc0455)
+*Figure 2: Monthly trends in parking violations.*
+
+![Capture3](https://github.com/dor851997/Analyzing-Parking-Violation-Enforcement-in-New-York-City/assets/67059795/10f19391-e74a-4efc-bea3-c70e46c7d091)
+*Figure 3: Analysis of the parking violations by car type state and color.*
+
+![Capture4](https://github.com/dor851997/Analyzing-Parking-Violation-Enforcement-in-New-York-City/assets/67059795/14a93848-c5e4-4027-b853-a2b76b46966e)
+*Figure 4: Geographical analysis of truck parking offenses in Manhattan.*
+
+![Capture5](https://github.com/dor851997/Analyzing-Parking-Violation-Enforcement-in-New-York-City/assets/67059795/3135b05d-3c43-4694-95f0-1afa82c0f862)
+*Figure 5: Analysis page that includes profits by agency area and time.*
 
 ## How to Use This Project
 
